@@ -1,5 +1,5 @@
-For frontend  -  npm i
-For backend  - npm i and set .env file(mongo file) 
+For frontend  - just Do  npm i and than  do  npm run dev
+For backend  - just do  npm i and add  .env file(set  MONGO  = 'Database url') 
 
 ![image](https://github.com/user-attachments/assets/96d8c32b-5276-4092-ae74-e74402f6080f)
 
